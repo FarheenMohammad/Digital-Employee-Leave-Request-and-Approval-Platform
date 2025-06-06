@@ -13,7 +13,7 @@ Features:
 7. Secure and organized leave records management
 
 Tech Stack:
-Backend: Django (Python)
-Frontend: HTML, CSS, Bootstrap
-Database: SQLite (or any preferred DB)
-Others: Django Admin, Django Messages Framework
+1. Backend: Django (Python)
+2. Frontend: HTML, CSS, Bootstrap
+3. Database: SQLite (or any preferred DB)
+4. Others: Django Admin, Django Messages Framework
