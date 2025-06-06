@@ -17,3 +17,9 @@ Tech Stack:
 2. Frontend: HTML, CSS, Bootstrap
 3. Database: SQLite (or any preferred DB)
 4. Others: Django Admin, Django Messages Framework
+
+Future Enhancements:
+1. Leave balance tracking and reports
+2. Email notifications on leave application and approval
+3. Export leave records as PDF/Excel
+4. Mobile-friendly UI improvements
