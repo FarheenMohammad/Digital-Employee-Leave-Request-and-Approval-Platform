@@ -1,1 +1,19 @@
-# Digital-Employee-Leave-Request-and-Approval-Platform
+A simple and user-friendly Leave Management System developed using Django to help organizations efficiently track, manage, and approve employee leave requests.
+
+Project Overview:
+The Easy Leave Management System is designed to simplify the process of applying for, approving, and tracking employee leaves within an organization. It aims to reduce paperwork, automate notifications, and provide a clear overview of leave balances and pending requests for both employees and administrators.
+
+Features:
+1. User authentication and role-based access
+2.Leave application form for employees
+3. Admin dashboard to view, approve, or reject leave requests
+4. Track leave history and pending requests
+5. Email notifications on leave status (optional)
+6. Clean and responsive user interface
+7. Secure and organized leave records management
+
+Tech Stack:
+Backend: Django (Python)
+Frontend: HTML, CSS, Bootstrap
+Database: SQLite (or any preferred DB)
+Others: Django Admin, Django Messages Framework
