@@ -1,10 +1,10 @@
 A robust and user-friendly Leave Management System built to help organizations efficiently track, manage, and approve employee leave requests through a secure, full-stack web application.
 
-Project Overview:
+**Project Overview:**
 The system automates the leave approval workflow by integrating role-based access control for employees and administrators. It provides real-time updates on leave applications, pending approvals, and leave balances while ensuring scalability, maintainability, and clean UI/UX.
 
 
-Key Features:
+**Key Features:**
 
 User authentication and role-based dashboards for employees and admins
 
@@ -19,7 +19,7 @@ Secure and organized leave record management
 RESTful API integration for seamless frontend-backend communication
 
 
-Tech Stack:
+**Tech Stack:**
 
 Development: Visual Studio Code, Git, Docker
 
@@ -34,7 +34,7 @@ Deployment: Render, Vercel
 Project Management: Jira, Slack
 
 
-Future Enhancements:
+**Future Enhancements:**
 
 Leave balance analytics and downloadable reports (PDF/Excel)
 
