@@ -1,8 +1,8 @@
 A robust and user-friendly Leave Management System built to help organizations efficiently track, manage, and approve employee leave requests through a secure, full-stack web application.
 
-
 Project Overview:
 The system automates the leave approval workflow by integrating role-based access control for employees and administrators. It provides real-time updates on leave applications, pending approvals, and leave balances while ensuring scalability, maintainability, and clean UI/UX.
+
 
 Key Features:
 
